@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 import Head from './head'
-
+// test
 import { history } from '../redux'
 
 const Home = () => {
